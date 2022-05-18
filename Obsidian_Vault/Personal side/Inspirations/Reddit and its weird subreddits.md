@@ -1,0 +1,3 @@
+#Inspiration 
+
+Reddit possède un nombre monstrueux de subreddit plus ou moins chelou ou intéressants pouvant développer la créativité et donner des idées plus ou moins foireuses pour créer différentes choses. Il est toujours bon de garder ce genre d'information sous la main, surtout qu'il est aussi possible de sonder la communauté de certains sujets pour pouvoir se renseigner sur quelque chose qu'on ne maîtrise pas trop, ou pour pouvoir développer une idée encore à l'état de projet.

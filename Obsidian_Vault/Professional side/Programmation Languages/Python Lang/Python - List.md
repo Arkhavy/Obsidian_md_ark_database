@@ -1,0 +1,26 @@
+#Python
+
+- Variables
+- Types
+- Basic Operators
+- String Functions
+- Dictionaries
+- Sets
+- Conditions
+- Loops
+- Lists
+- Classes
+- Objects
+- String formatting
+- Modules
+- Packages
+- Map
+- Filter
+- Reduce
+- Basic string operations
+- Exception handling
+- File operations
+- Functions
+- User input
+- Sequences
+- Date & Time

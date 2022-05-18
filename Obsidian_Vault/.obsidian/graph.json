@@ -1,0 +1,135 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#SkyRoad",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Inspiration",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Life",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Projects",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#DSA",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Design",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Backend",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#CSS",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Javascript",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#CSharp",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Python",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Cpp",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Java",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    },
+    {
+      "query": "tag:#React",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.50393258426966,
+  "lineSizeMultiplier": 1.00416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.1316872427983545,
+  "close": false
+}

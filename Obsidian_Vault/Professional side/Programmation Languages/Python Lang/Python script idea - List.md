@@ -1,0 +1,54 @@
+#Python 
+
+- Convert JSON to CSV
+- Password Generator
+- String search from multiple files
+- Fetch all links from a given webpage
+- Image watermarking
+- Scrap and download all images from the web page
+- Low battery notification
+- Calculate your age
+- Organized download folder with different categories
+- Send emails in bulk from csv file
+- Get the IP address and hostname of a website
+- Terminal progress bar
+- Wifi password ejector
+- Snapshot of the given website
+- Split files into chunks
+- Encrypt and decrypt text
+- Capture screenshots at regular intervals of time
+- Decimal to binary converter
+- CLI TOdo App
+- Currency Converter
+- Create a simple stopwatch
+- Python script to compress folders and files
+- Find IMDB ratings
+- Web Scrapping youtube comments
+- Text to speech
+- Convert image format
+- Random wikipedia article
+- Check website connectivity
+- Current weather
+- GUI Calculator App
+- Sudoku Solver
+- File Encrypt Decrypt
+- Location Of Adress
+- Automated Email
+- Artificial Intelligence Chatbot
+- Bitcoin price GUI application
+- Codechef automated submission
+- Checksum
+- Cryptocurrency converter
+- Cryptocurrency prices
+- Colored image to black & white image converter
+- Cricbuzz score update
+- CSV to Excel
+- Current City weather
+- Directory organizer
+- Excel files merger
+- Extended IP address info
+- Excel to python list of list converter
+- File explorer dialog box in python
+- Using tkinter
+- Using PyQt
+- File sharing bot

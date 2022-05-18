@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4cb1006669ff3c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9832befbe66d0536",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7386c255c227ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f3ce52a317c716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a27a55ea28cd11db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e96c64e6c53cc8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Learning",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365
+  },
+  "right": {
+    "id": "3b113e0baa3b33ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a40317ef6954210d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb13c8a4885ceb3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9832befbe66d0536",
+  "lastOpenFiles": [
+    "Professional side/Other things/Useful links/Useful Websites.md",
+    "Professional side/Programmation Languages/Javascript Lang/How to write less Javascript/Tips to write less Javascript.md",
+    "Professional side/Notions/Design/Things designers forget to design.md",
+    "Professional side/Other things/Useful links/Starred Gtihub Repo.md",
+    "Professional side/Programmation Languages/React Lang/React Roadmap.md",
+    "Professional side/Programmation Languages/React Lang/React components.md",
+    "Professional side/Notions/Design/Random Design tips.md",
+    "Professional side/Programmation Languages/Python Lang/Python Roadmap (Learn in 9 parts).md",
+    "Professional side/Programmation Languages/Python Lang/Python Operators/Python Operators.md",
+    "Professional side/Programmation Languages/Javascript Lang/Javascript Roadmap (Learn in 6 parts).md"
+  ]
+}
