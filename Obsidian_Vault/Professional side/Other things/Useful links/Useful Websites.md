@@ -32,3 +32,5 @@
 - **Wweb Dev** : https://wweb.dev/
 - **animated css** : https://wweb.dev/resources/animated-css-background-generator/
 - **Magic Pattern** : https://www.magicpattern.design/
+- **Px to Rem converter** : https://nekocalc.com/px-to-rem-converter
+- **Px to Vh / Px to Vw converter** : https://khaledkzy.github.io/pixel-vh-vw-converter/
