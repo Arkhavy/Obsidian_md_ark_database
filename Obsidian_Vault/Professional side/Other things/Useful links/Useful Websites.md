@@ -35,3 +35,6 @@
 - **Px to Rem converter** : https://nekocalc.com/px-to-rem-converter
 - **Px to Vh / Px to Vw converter** : https://khaledkzy.github.io/pixel-vh-vw-converter/
 - **WakaTime** : https://wakatime.com/
+- **30 seconds of code** : https://www.30secondsofcode.org
+- **CSS Layout** : https://csslayout.io
+- **Frontend mentor** : https://www.frontendmentor.io
