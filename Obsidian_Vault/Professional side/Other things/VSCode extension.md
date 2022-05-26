@@ -1,5 +1,4 @@
 #VSCode
-#React
 #Extension
 
 - **ES7+ React/Redux/GraphQL/React-Native snippets**
