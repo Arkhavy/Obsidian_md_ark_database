@@ -1,6 +1,6 @@
 #Frontend
 
-### **Content of the `HTML`page**
+### **Content of the `HTML` page**
 
 ```html
 <div class="breeding-rhombus-spinner">
@@ -16,7 +16,7 @@
 </div>
 ```
 
-### **Content of the `CSS`page**
+### **Content of the `CSS` page**
 
 ```css
 .breeding-rhombus-spinner {

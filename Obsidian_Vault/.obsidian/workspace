@@ -7,8 +7,12 @@
         "id": "9832befbe66d0536",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Learning",
+                "query": "tag:#FullStack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "9832befbe66d0536",
   "lastOpenFiles": [
-    "Professional side/Programmation Languages/CSS Lang/CSS trick for dark mode.md",
-    "Professional side/Notions/FullStack/Full Stack Dev skills.md",
-    "Professional side/Notions/FullStack/FullStack - List.md",
-    "Professional side/Other things/Useful links/Useful Websites.md",
-    "Professional side/Other things/Useful links/Starred Gtihub Repo.md",
-    "Professional side/Other things/Useful links/Coding youtube channels.md",
     "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
+    "Professional side/Programmation Languages/Python Lang/Python script idea - List.md",
+    "Professional side/Programmation Languages/Python Lang/Python projects idea - List.md",
+    "Professional side/Programmation Languages/Python Lang/Python - List.md",
+    "Professional side/Programmation Languages/Javascript Lang/How to write less Javascript/Arrow function.md",
     "Professional side/Programmation Languages/Javascript Lang/How to write less Javascript/Tips to write less Javascript.md",
-    "Professional side/Notions/Design/Things designers forget to design.md",
-    "Professional side/Programmation Languages/React Lang/React Roadmap.md"
+    "Professional side/Notions/FullStack/FrontEnd/Hamburger menu.md",
+    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/Create the file structure.md",
+    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/=Dark Mode in CSS.md",
+    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/Create the dark mode.md"
   ]
 }

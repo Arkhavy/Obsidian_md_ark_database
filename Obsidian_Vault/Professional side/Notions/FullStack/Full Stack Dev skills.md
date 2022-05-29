@@ -1,4 +1,3 @@
-#FullStack 
 #Frontend 
 #Backend 
 
