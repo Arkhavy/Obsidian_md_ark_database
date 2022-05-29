@@ -7,12 +7,8 @@
         "id": "9832befbe66d0536",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "9832befbe66d0536",
   "lastOpenFiles": [
-    "Personal side/Inspirations/Minecraft 1.18 Seeds.md",
-    "Professional side/Programmation Languages/Python Lang/Python script idea - List.md",
-    "Professional side/Programmation Languages/Python Lang/Python projects idea - List.md",
-    "Professional side/Programmation Languages/Python Lang/Python - List.md",
-    "Professional side/Programmation Languages/Javascript Lang/How to write less Javascript/Arrow function.md",
-    "Professional side/Programmation Languages/Javascript Lang/How to write less Javascript/Tips to write less Javascript.md",
-    "Professional side/Notions/FullStack/FrontEnd/Hamburger menu.md",
-    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/Create the file structure.md",
-    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/=Dark Mode in CSS.md",
-    "Professional side/Programmation Languages/CSS Lang/Dark Mode in CSS/Create the dark mode.md"
+    "Professional side/Programmation Languages/React Lang/Introduction to Redux Toolkit/Create Store.md",
+    "Professional side/Programmation Languages/React Lang/Introduction to Redux Toolkit/Create slice people.md",
+    "Professional side/Programmation Languages/React Lang/Introduction to Redux Toolkit/Create slice counter.md",
+    "Professional side/Programmation Languages/React Lang/Introduction to Redux Toolkit/Counter slice usage.md",
+    "Professional side/Programmation Languages/React Lang/Introduction to Redux Toolkit/=Introduction to Redux Toolkit.md",
+    "Professional side/Notions/FullStack/FrontEnd/Bubble loading animation.md",
+    "Professional side/Notions/FullStack/FrontEnd/Random Joke Generator.md",
+    "Professional side/Notions/FullStack/FrontEnd/Rhombus loading animation.md",
+    "Professional side/Notions/FullStack/FrontEnd/Solar Eclipse Animation.md",
+    "Professional side/Programmation Languages/Java Lang/Java courses list.md"
   ]
 }
