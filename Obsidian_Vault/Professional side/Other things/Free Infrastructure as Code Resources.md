@@ -1,8 +1,4 @@
-#Infrastructure
-#Terraform
-#AWS
-#Azure
-#GCP
+#Ressources
 
 Infrastructure as code (IaC) is the process of managing and provisioning of infrastructure through machine-readable definition files, rather than physical hardware configuration.
   

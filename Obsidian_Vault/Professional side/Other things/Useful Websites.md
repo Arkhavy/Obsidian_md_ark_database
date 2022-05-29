@@ -1,4 +1,4 @@
-#Websites
+#Ressources
 
 - **Exercism** : https://www.exercism.io
 - **Exercism** : https://www.exercism.org
@@ -35,3 +35,9 @@
 - **Px to Rem converter** : https://nekocalc.com/px-to-rem-converter
 - **Px to Vh / Px to Vw converter** : https://khaledkzy.github.io/pixel-vh-vw-converter/
 - **WakaTime** : https://wakatime.com/
+- **30 seconds of code** : https://www.30secondsofcode.org
+- **CSS Layout** : https://csslayout.io
+- **Frontend mentor** : https://www.frontendmentor.io
+- **Brain.fm** : https://www.brain.fm/
+- **Learn CS** : https://www.learncs.org/
+- **Learn Computer Science** : https://learncs.me/

@@ -13,3 +13,11 @@
 - Telegram bot
 - Password hashing
 - Website blocker
+- Age Calculator
+- Auto Birthday Wisher
+- Discord Bot
+- Digital Clock
+- Email Validator
+- Facebook autologin
+- Instagram liker bot
+- Github Automation
